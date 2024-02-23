@@ -1,4 +1,7 @@
 # Sentiment Analysis on Social Media Comments
+![proj-sentiment](https://github.com/mahmoudmayaleh/Sentiment_Analysis/assets/124529384/d00209b6-322d-4b03-a860-aa1bd71582b8)
+
+
 Overview:
 This Python project conducts sentiment analysis on social media comments using the NLTK library. The analysis involves detecting sentiment in textual data extracted from a social media dataset (Twitter_Data.csv). The project utilizes the SentimentIntensityAnalyzer, part of the NLTK library, to generate sentiment scores for each comment.
 
